@@ -14,7 +14,7 @@ public class Main {
        }
            System.out.print(stringToNumber.stringToNumber("123"));
            int[]arraym = new int[]{1, 2, 3, 4, 5, 6 };
-     int[]array3=EvenNumbers.divisibleBy(arraym,2);
+           int[]array3=EvenNumbers.divisibleBy(arraym,2);
         for(int i:array3) {
             System.out.print(i);
         }
